@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 多 Agent 智能客服系统 Demo（含 Guardrails 安全控制）
 
 本项目是一个**可运行的 Multi-Agent 智能客服系统 Demo**，用于演示如何使用 OpenAI + Agents SDK 构建一个真实企业场景的「智能客服系统」，并通过 Guardrails（安全护栏）实现合规控制。
@@ -95,3 +96,7 @@ Guardrails 分为两层：
 ┌───────────────────────────────┐
 │           最终回复用户          │
 └───────────────────────────────┘
+=======
+# AICustomerSvr
+电商AI智能客服Demo
+>>>>>>> 563652e33ad920626e1da00de0fb535f983ad7dc
